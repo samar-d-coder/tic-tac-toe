@@ -10,7 +10,7 @@ Name: Tic-tac-toe-3D
 
 ## Live Website URL
 
-Link: https://https://tic-tac-toe-bysamar.vercel.app/
+Link: https://tic-tac-toe-bysamar.vercel.app/
 
 ## Code
 
